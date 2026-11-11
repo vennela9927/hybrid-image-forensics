@@ -1,0 +1,28 @@
+# documents (report / pitch)
+*.pdf
+*.docx
+*.pptx
+
+# generated dataset (re-create with scripts/generate_dataset.py)
+data/
+
+# local outputs and logs
+reports/
+*_log.txt
+*.history.json
+
+# old extracted copy of the project zip
+HybridImageForensics/
+
+# python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

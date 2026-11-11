@@ -1,0 +1,15 @@
+{
+  "model": "ELA heuristic (spatial only, no learning)",
+  "image_level": {
+    "accuracy": 0.5016666666666667,
+    "precision": 0.5033112582781457,
+    "recall": 0.25333333333333335,
+    "f1": 0.33702882483370294,
+    "auc": 0.5199333333333334,
+    "tp": 76,
+    "tn": 225,
+    "fp": 75,
+    "fn": 224
+  },
+  "pixel_level": {}
+}
